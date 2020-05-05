@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #ffffff;
 }
 
 .header {
@@ -101,17 +101,17 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -178,12 +178,12 @@ p {
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+.online-reputation-management h3 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.social-media-marketing h4 {
     margin-bottom: 20px;
     font-size: 36px;
 }
