@@ -22,4 +22,4 @@ by combining elements in one class where they had identical attributes.
     styling attributes. 
     - For instance, I changed the class names of the images under the content class to 'h2,' as 
     the same styling attributes were applied to all 3 images. 
-    - I did the same for the images under the content class. 
+    - I did the same for the images under the benefits class. 
