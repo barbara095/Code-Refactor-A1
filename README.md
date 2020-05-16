@@ -7,6 +7,8 @@ In HTML:
     - Added in a title: "Horiseon Social Solution Services"
     - Added alt attributes to image elements. 
     - Changed footer heading to h4 from h2 to identify it easier in CSS.
+    - Removed id attributes in content section under each div tag, and kept class attributes. 
+    - Renamed image classes under content section to more identifiable names. i.e.: "SEO-img"
 
 
 In CSS: I Reformatted CSS classes to make it more concise and efficient, 
